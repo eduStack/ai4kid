@@ -41,7 +41,7 @@ Welcome to the ai4kid wiki!本项目整理少儿人工智能编程资源，方�
 * <a href="https://www.ai4youthcanada.com/">ai4youthcanada</a><p>
 AI4Youth Canada是加拿大联邦注册的非营利组织，致力于使高中生与加拿大人工智能领域的教授和有影响力的行业领导者建立联系，并促进AI相关的体验式学习机会。
 
-* <a href="https://learn.adafruit.com/">Adafruit</a><p>Adafruit由麻省理工学院黑客和工程师Limor“Ladyada”Fried于2005年创立。 她的目标是创造最好的在线学习电子产品的地方，并为所有年龄和技能水平的制造商制作最好的产品。 Adafruit已经在纽约市中心拥有超过100名员工，拥有50,​​000多平方英尺的工厂。Adafruit扩大了产品范围，包括Limor在进入Adafruit商店之前亲自选择，测试和批准的工具，设备和电子产品。Adafruit是一家100％女性拥有的公司。
+* <a href="https://learn.adafruit.com/">Adafruit</a><p>Adafruit由麻省理工学院黑客和工程师Limor“Ladyada”Fried于2005年创立。 她的目标是创造最好的在线学习电子产品的地方，并为所有年龄和技能水平的制造商制作最好的产品。 Adafruit已经在纽约市中心拥有超过100名员工，拥有50,​​000多平方英尺的工厂。Adafruit扩大了产品范围，包括Limor在进入Adafruit商店之前亲自选择，测试和批准的工具，设备和电子产品。Adafruit是一家100％女性拥有的公司。<p>Adafruit 这个名字来自 Fried 的在线绰号“Ladyada”，这是对计算机科学先驱 Ada Lovelace 的致敬。该公司的目标是让更多的人参与技术、科学和工程。 
 
 * <a href="https://projects.raspberrypi.org/en/">Raspberry Pi Projects</a><p>Raspberry Pi Foundation是一家总部位于英国的慈善机构，致力于将计算和数字制作的力量交付给全世界人民。我们这样做是为了让更多人能够利用计算和数字技术的力量进行工作，解决对他们而言至关重要的问题，并创造性地表达自己。
 
