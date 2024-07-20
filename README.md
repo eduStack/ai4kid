@@ -12,7 +12,11 @@ Welcome to the ai4kid wiki!本项目整理少儿人工智能编程资源，方�
 <a href="https://en.wikipedia.org/wiki/Design_thinking">设计思维</a>
 
 ### 生成式人工智能
+* [面向初学者的生成式人工智能课程](https://microsoft.github.io/generative-ai-for-beginners/#/)
 
+* [提示工程指南](https://www.promptingguide.ai/zh)
+
+* [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 
 
 ### 组织和社区
