@@ -23,7 +23,8 @@ Welcome to the ai4kid wiki!本项目整理少儿人工智能编程资源，方�
 
 * <a href="https://microblocks.fun/">MicroBlocks</a> 是一种受 Scratch 启发的用于物理计算的块编程语言。它运行在 micro:bit、Calliope mini、AdaFruit Circuit Playground Express 等微控制器上。<a href="https://www.microblocksfun.cn/">中文版</a>
 
-* [RAISE（社会赋权和教育的负责任的人工智能](https://raise.mit.edu/resources/）RAISE（社会赋权和教育的负责任的人工智能）是一项新的麻省理工学院范围内的计划，总部设在麻省理工学院媒体实验室，并与麻省理工学院施瓦茨曼计算学院和麻省理工学院开放学习学院合作。
+* [ RAISE（社会赋权和教育的负责任的人工智能 ] ( https://raise.mit.edu/resources/ ）
+RAISE（社会赋权和教育的负责任的人工智能）是一项新的麻省理工学院范围内的计划，总部设在麻省理工学院媒体实验室，并与麻省理工学院施瓦茨曼计算学院和麻省理工学院开放学习学院合作。
   
 * <a href="https://github.com/Scratch3Lab/CodeLab_Kits">CodeLab_Kits</a><p>搜罗整理全球有趣的开源硬件与开放编程套件(教育相关), 秉承Awesome lists精神。
 
