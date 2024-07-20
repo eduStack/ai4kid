@@ -12,6 +12,7 @@ Welcome to the ai4kid wiki!本项目整理少儿人工智能编程资源，方�
 <a href="https://en.wikipedia.org/wiki/Design_thinking">设计思维</a>
 
 ### 生成式人工智能
+
 * [面向初学者的生成式人工智能课程](https://microsoft.github.io/generative-ai-for-beginners/#/)
 
 * [提示工程指南](https://www.promptingguide.ai/zh)
@@ -147,6 +148,8 @@ FieldKit的设计易于部署和自定义，可以适应各种研究团队的需
 
 * <a href="https://openbci.com/">OpenBCI</a> 
 OpenBCI代表开源脑机接口（BCI）。我们为任何人提供一台计算机，这是采样人体电活动所必需的工具。我们通用且价格合理的生物传感系统可用于采样脑电活动（EEG），肌肉活动（EMG），心率（ECG），身体运动等。我们的3D可打印EEG耳机可用于获得研究级的EEG录音。
+
+* [https://www.personalrobots.biz/category/opensource-robot/] Personal Robots
 
 
 
