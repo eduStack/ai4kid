@@ -19,6 +19,10 @@ Welcome to the ai4kid wiki!本项目整理少儿人工智能编程资源，方�
 
 * [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 
+* [Open AI Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-reference-text) This guide shares strategies and tactics for getting better results from large language models (sometimes referred to as GPT models) like GPT-4o. The methods described here can sometimes be deployed in combination for greater effect. We encourage experimentation to find the methods that work best for you.
+
+* [Claude Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+
 
 ### 组织和社区
 
