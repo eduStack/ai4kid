@@ -75,6 +75,7 @@ AI4Youth Canada是加拿大联邦注册的非营利组织，致力于使高中�
 
 
 ### 课程
+* <a href="https://dayofai.org/">dayofai.org</a>AI日于2021年6月出生于麻省理工学院。由MIT Rish的一组教师和研究科学家（负责社会授权和教育的AI负责的AI）领导，AI计划的日子试图准备所有背景和能力的K-12学生，以成功，负责，并从事越来越多的AI支持社会。与I2学习合作，麻省理工学院的团队为K-12老师提供了一系列免费的动手AI素养课程和专业发展，以实施这项新课程。
 
 * <a href="https://www.ucl.ac.uk/ioe/research/projects/ucl-scratchmaths">ucl-scratchmaths</a>
 ScratchMaths 是面向关键阶段 2 学生（5 年级和 6 年级）的两年制计算和数学课程。其目的是让学生通过学习编程来参与和探索重要的数学思想。我们正在使用免费的在线编程环境Scratch。
